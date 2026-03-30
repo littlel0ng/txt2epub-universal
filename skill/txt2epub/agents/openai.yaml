@@ -1,0 +1,4 @@
+interface:
+  display_name: "TXT2EPUB"
+  short_description: "将 TXT 小说转换为 EPUB，并支持中文章节识别"
+  default_prompt: "Use $txt2epub to convert this TXT novel into an EPUB and return the generated file path."

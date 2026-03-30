@@ -1,0 +1,6 @@
+# Environment and tools
+.DS_Store
+
+# Memory and documentation
+docs/
+memory/
